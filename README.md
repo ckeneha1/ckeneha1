@@ -2,7 +2,7 @@
 
 I lead a product analytics team and still write the code.
 
-At TaskRabbit I own the analytics function — setting the roadmap, managing the team, and staying hands-on across experiment design, data tooling, and the infrastructure PMs use to do their jobs. Leading and building at the same time pushed me toward a specific kind of work: frameworks over one-offs, agents over scripts, infrastructure that pays forward.
+At Taskrabbit I own the Product Analytics function. I set the roadmap, manage the team, and stay hands-on across experiment design, data tooling, and the infrastructure PMs use to do their jobs. Leading and building at the same time pushed me toward a specific kind of work: frameworks over one-offs, agents over scripts, infrastructure that pays forward.
 
 Most of what I build lives at the intersection of rigorous analysis and practical tooling.
 
@@ -18,8 +18,8 @@ Most of what I build lives at the intersection of rigorous analysis and practica
 
 ## Background
 
-- **Lead, Product Analytics @ TaskRabbit** — team lead and individual contributor; experiment design, opportunity sizing, event governance, and the internal tools that make all of it faster
-- **Previously:** Senior Data Scientist @ Uber, Data Scientist @ Booz Allen Hamilton
+- **Lead, Product Analytics @ Taskrabbit** — team lead and individual contributor; experiment design, opportunity sizing, event governance, and the internal tools that make all of it faster
+- **Previously:** Senior Data Scientist @ Taskrabbit, Pricing Analytics Lead @ Uber, Senior Data Scientist @ Booz Allen Hamilton
 - **Education:** Johns Hopkins University, B.S. 2016
 
 **Stack:** Python · SQL · dbt · Segment · Plotly · React · Claude Code
