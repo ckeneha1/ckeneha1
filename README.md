@@ -1,6 +1,6 @@
 # Connor Kenehan
 
-I lead an analytics team and still write the code.
+I lead an analytics team and still write the code!
 
 At Taskrabbit I own the Product Analytics function. I set the roadmap, manage the team, and stay hands-on across experiment design, data tooling, and the infrastructure PMs use to do their jobs. Leading and building at the same time pushed me toward a specific kind of work: frameworks over one-offs, agents over scripts, infrastructure that pays forward.
 
